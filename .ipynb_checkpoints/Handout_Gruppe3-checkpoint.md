@@ -31,7 +31,7 @@ the Branches still exist in the remote repository --> to delete a remote Branch:
 
 **Merging and Rebasing**
 
-Merging and rebasing basically do the same thing, just in different ways. As the name implies "Merging" merges the Master and the feature branch together \
-resulting in a forked development history. Master and feature are brought back together. Rebasing on the other hand sets the feature branch on the tip of the\
- master branch. This action incorporates all the commits in the master branch therefore rewriting the development history and resulting in a linear history. \
+Merging and rebasing basically do the same thing, just in different ways. As the name implies "Merging" merges the Master and the feature branch together 
+resulting in a forked development history. Master and feature are brought back together. Rebasing on the other hand sets the feature branch on the tip of the
+master branch. This action incorporates all the commits in the master branch therefore rewriting the development history and resulting in a linear history. 
 This means  
